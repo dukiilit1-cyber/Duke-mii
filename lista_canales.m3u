@@ -1,0 +1,163 @@
+#EXTM3U
+
+# ==================== 🇦🇷 ARGENTINA & REGIONALES ====================
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/telefe-ar.png" group-title="🇦🇷 Argentina",Telefe HD
+http://138.59.227.20:8000/play/a08a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TrgBAdA.png" group-title="🇦🇷 Argentina",El Trece (1080p)
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="🇦🇷 Argentina",TN (1080p)
+http://158.172.155.130:8000/play/a0dp/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="🇦🇷 Argentina",A24 (1080p)
+http://138.59.227.20:8000/play/a05u/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YqTNXDf.png" group-title="🇦🇷 Argentina",Canal 2 Misiones (1080p)
+https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HXRpRlK.png" group-title="🇦🇷 Argentina",Misiones Cuatro
+https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/716/716429.png" group-title="🇦🇷 Argentina",Yguazu Tv
+http://138.59.227.20:8000/play/a0ge/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtvenvivo.com/wp-content/uploads/2020/08/snt-paraguay-en-vivo.png" group-title="🇦🇷 Argentina",SNT Asunción
+http://200.85.51.158:64333/play/a04f/index.m3u8
+
+# ==================== 🇦🇷 DEPORTES ====================
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-premium-ar.png" group-title="🇦🇷 Deportes",ESPN Premium (Argentina) HD (1080p)
+http://158.172.155.130:8000/play/a0ao/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tnt-sports-ar.png" group-title="🇦🇷 Deportes",TNT Sports HD
+http://138.59.227.20:8000/play/a06z/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tyc-sports-ar.png" group-title="🇦🇷 Deportes",TyC Sports HD
+http://138.59.227.20:8000/play/a06x/index.m3u8
+#EXTINF:-1 tvg-logo="https://assetshuluimcom-a.akamaihd.net/h3o/landing/networks/wall/espn-network-logo.png" group-title="🇦🇷 Deportes",ESPN
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/89.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s88735_dark_360w_270h.png" group-title="🇦🇷 Deportes",ESPN 2 AR
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/88.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86787_dark_360w_270h.png" group-title="🇦🇷 Deportes",ESPN 5
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/92.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99633_dark_360w_270h.png" group-title="🇦🇷 Deportes",ESPN 6
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/25.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91513_dark_360w_270h.png" group-title="🇦🇷 Deportes",ESPN 7
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/26.m3u8
+
+# ==================== PELÍCULAS ====================
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" group-title="Películas",HBO
+http://138.59.227.20:8000/play/a07m/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hbo-2-br.png" group-title="Películas",HBO 2
+http://138.59.227.20:8000/play/a07o/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hbo-2-br.png" group-title="Películas",HBO2 HD
+http://200.85.51.158:64333/play/a077/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-family-us.png" group-title="Películas",HBO Family
+http://138.59.227.20:8000/play/a07p/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hbo-mundi-br.png" group-title="Películas",HBO Mundi
+http://138.59.227.20:8000/play/a06f/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hbo-plus-br.png" group-title="Películas",HBO Plus
+http://138.59.227.20:8000/play/a07n/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hbo-signature-br.png" group-title="Películas",HBO Signature
+http://138.59.227.20:8000/play/a06h/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/cinecanal-br.png" group-title="Películas",Cinecanal HD
+http://138.59.227.20:8000/play/a089/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="Películas",Cinemax
+http://138.59.227.20:8000/play/a08r/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png" group-title="Películas",Paramount HD
+http://138.59.227.20:8000/play/a073/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/space-br.png" group-title="Películas",Space HD
+http://138.59.227.20:8000/play/a071/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/star-channel-br.png" group-title="Películas",Star Channel HD
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/51.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tnt-br.png" group-title="Películas",TNT HD
+http://138.59.227.20:8000/play/a08b/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tnt-novelas-ar.png" group-title="Películas",TNT Novelas HD
+http://138.59.227.20:8000/play/a08e/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/warner-channel-br.png" group-title="Películas",Warner Channel HD
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/68.m3u8
+#EXTINF:-1 tvg-logo="https://amc-series.s3.amazonaws.com/menu/hbfen1Gom0_k1cyqi7rw4-amc-series-train-w.png" group-title="Películas",AMC Series (1080p)
+http://45.171.64.30:6060/play/a005/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QpDkrmT.png" group-title="Películas",TCM (1080p)
+http://45.171.64.30:6060/play/a014/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/film-arts-ar.png" group-title="Películas",Film & Arts HD
+http://138.59.227.20:8000/play/a075/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3163/3163478.png" group-title="Películas",CINE CONTIVISION H3
+https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png" group-title="Películas",Angry Birds 2: La Película
+https://vids.vidplayz.site/1847293/s0n1.mp4?angry-birds-2-la-pelicula
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png" group-title="Películas",Nuev (VOD)
+https://novastrim.com/ficha/2e8007d6-af80-4572-8cc9-9051cc8e4b80
+
+# ==================== SERIES ====================
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png" group-title="Series",AMC Español
+https://amc-amcespanol-1-us.plex.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png" group-title="Series",Aurora Film
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I0eGYI0.png" group-title="Series",Bum Television
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nJmvyir.png" group-title="Series",Cosmos Movies
+https://canaletaplus.com:3922/live/cosmoslive.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3163/3163478.png" group-title="Series",Cusco Play Cine
+https://stmv2.srvif.com/cuscoplay/cuscoplay/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2991/2991195.png" group-title="Series",ENT
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/716/716429.png" group-title="Series",Ent Channel
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3163/3163478.png" group-title="Series",ENT Classic
+https://cdn.40mediagroup.com/live/c7eds/ENT_Classics/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/3163/3163508.png" group-title="Series",Ent Comedy
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png" group-title="Series",ENT Drama
+https://cdn.40mediagroup.com/live/c7eds/ENT_Drama/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/4221/4221419.png" group-title="Series",Ent Family
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/716/716429.png" group-title="Series",ENT Life
+https://cdn.40mediagroup.com/live/c7eds/ENT_Life/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png" group-title="Series",Ent Movies
+https://cdn.40mediagroup.com/live/c7eds/ENT_Movies/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" group-title="Series",HBO (Opción 2)
+https://streaming.onnethn.com/HBO/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hbo-2-br.png" group-title="Series",HBO2 (Opción 2)
+https://streaming.onnethn.com/HBO2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/2503/2503508.png" group-title="Series",Maxcine Movies
+https://tvstreaming.albpo.com/memfs/8d987761-7923-4532-a95d-20723ae95374.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/716/716429.png" group-title="Series",MI TV
+https://mitv.getstreamhosting.com:1936/live/live/chunklist_w1917734841.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sony-channel-br.png" group-title="Series",SONY ACCION
+https://de9yx47crxs6l.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sony-movies-us.png" group-title="Series",SONY CINE
+https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sony-channel-br.png" group-title="Series",SONY EXITOS
+https://d1hcj42s7cseno.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sony-channel-br.png" group-title="Series",SONY ONE COMEDY
+https://d1fhd07bw4d2d6.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sony-channel-br.png" group-title="Series",SONY ONE |NOVELAS y SERIES|
+https://8d4a17fe54c04f04bb010a8d291c7d41.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-mx_SonyOneNovelas/playlist.m3u8
+
+# ==================== DOCUMENTALES ====================
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" group-title="Documentales",Discovery Channel HD
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/20.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-home-health-ar.png" group-title="Documentales",Discovery H&H HD
+http://138.59.227.20:8000/play/a08f/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-science-us.png" group-title="Documentales",Discovery Science
+http://138.59.227.20:8000/play/a06p/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-theater-ar.png" group-title="Documentales",Discovery Theater HD
+http://138.59.227.20:8000/play/a074/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-world-ar.png" group-title="Documentales",Discovery World HD
+http://138.59.227.20:8000/play/a076/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/history-channel-us.png" group-title="Documentales",History Channel
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/37.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/history-2-ar.png" group-title="Documentales",History 2
+http://138.59.227.20:8000/play/a06n/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/national-geographic-us.png" group-title="Documentales",Nat Geo HD
+http://138.59.227.20:8000/play/a09f/index.m3u8
+
+# ==================== INFANTILES ====================
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png" group-title="Infantiles",Cartoon Network HD
+http://138.59.227.20:8000/play/a083/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png" group-title="Infantiles",Cartoon Network Latam
+https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/Cartoon_Network/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-kids-br.png" group-title="Infantiles",Discovery Kids
+http://138.59.227.20:8000/play/a07r/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-channel-us.png" group-title="Infantiles",Disney Channel HD
+http://138.59.227.20:8000/play/a06w/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-channel-us.png" group-title="Infantiles",Disney Channel (Opción 2)
+https://barinaslive1.boldmss.com/DISNEY/DISNEY.isml/DISNEY.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-jr-us.png" group-title="Infantiles",Disney Junior
+http://138.59.227.20:8000/play/a08x/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nickelodeon-us.png" group-title="Infantiles",Nickelodeon
+http://138.59.227.20:8000/play/a08y/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png" group-title="Infantiles",Nick Jr
+http://138.59.227.20:8000/play/a07s/index.m3u8
